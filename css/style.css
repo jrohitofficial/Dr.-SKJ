@@ -1,6 +1,5 @@
 /*=== MEDIA QUERY ===*/
 /*
-Theme Name: Medic
 Author: BisKIRAN
 Author URI: https://biskirantechnologies.com.np/
 Description: Medicle Template
@@ -11,6 +10,7 @@ Version: 1.0.0
 html {
   overflow-x: hidden;
 }
+
 
 body {
   line-height: 1.6;
